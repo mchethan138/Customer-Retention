@@ -1,7 +1,7 @@
 📊 Customer Churn Analysis Dashboard
 This project presents an end-to-end Customer Churn Analysis and Risk Profiling using Power BI. It is designed to help telecom or subscription-based service providers identify at-risk customers, analyze behavioral and demographic patterns, and take data-driven decisions to reduce churn and improve customer retention.
 
-📌 Key Observations from the Churn Analysis Project
+
 📊 Churn Dashboard
 Demographics:
 
